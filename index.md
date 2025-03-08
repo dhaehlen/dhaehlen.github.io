@@ -23,6 +23,7 @@ I currently work at DIRTT Environmental Services, I focus on integrating interna
   - Gameboy CR2032 Battery Holder
   - CB400F Air Box Grate
 - FSAE Fuse Box
+- Homelab
 
 ## Library
 
@@ -39,4 +40,4 @@ A collection of media I have found influential
 
 ## Links
 
-
+linkedin.com/in/dhaehlen
