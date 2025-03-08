@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# David Haehlen
-
 ## About
 
 Welcome to my page. I am software engineer by trade with a passion for the intersection of mechanical engineering and software engineering.
