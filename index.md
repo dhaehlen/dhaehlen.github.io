@@ -42,6 +42,6 @@ A collection of media I have found influential
 
 ## Links
 
-[LinkedIn](linkedin.com/in/dhaehlen)
+[LinkedIn](https://linkedin.com/in/dhaehlen)
 
 [GitHub](https://github.com/dhaehlen)
