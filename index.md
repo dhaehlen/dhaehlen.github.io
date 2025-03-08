@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # David Haehlen
 
 ## About
@@ -23,7 +27,7 @@ I currently work at DIRTT Environmental Services, I focus on integrating interna
   - Gameboy CR2032 Battery Holder
   - CB400F Air Box Grate
 - FSAE Fuse Box
-- Homelab
+- [Homelab](./homelab.html)
 
 ## Library
 
@@ -40,4 +44,6 @@ A collection of media I have found influential
 
 ## Links
 
-linkedin.com/in/dhaehlen
+[LinkedIn](linkedin.com/in/dhaehlen)
+
+[GitHub](https://github.com/dhaehlen)
