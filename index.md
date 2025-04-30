@@ -40,6 +40,7 @@ A collection of media I have found influential
 
 - Keep It Simple
 - Robots aren't Human and Humans aren't Robots
+- Explicit is better than Implicit
 
 ## Links
 
