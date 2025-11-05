@@ -17,7 +17,7 @@ I currently work at DIRTT Environmental Services, I focus on integrating interna
 
 - B.Sc Mechanical Engineering
 - M.Eng Software Engineering
-  [Predicting Individual Star Ratings From Reviews on Yelp](./Predicting Individual Star Ratings From Reviews on Yelp.pdf)
+  - [Predicting Individual Star Ratings From Reviews on Yelp](./Predicting Individual Star Ratings From Reviews on Yelp.pdf)
 
 ### Projects
 
