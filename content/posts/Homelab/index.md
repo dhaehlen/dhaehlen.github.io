@@ -1,6 +1,6 @@
 +++
 date = '2026-01-23T23:05:12Z'
-draft = true
+draft = false
 title = 'Homelab'
 +++
 
