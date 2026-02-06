@@ -4,6 +4,9 @@
 - add links to some pages on home page under name
 - clean up tab titles
 - comb through theme for config options and update config file
+- About section: (fix link to BIDMA paper, add as project)
+- add Honda Build as project
+- About section: fix typo in Principles
 
 ## Before Release
 
