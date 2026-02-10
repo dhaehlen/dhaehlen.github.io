@@ -8,3 +8,4 @@
 
 - check that links are working in menus and elsewhere	
 - check that dark mode works and selection persists
+- check content has correct draft setting (run dev server with -D flag)
