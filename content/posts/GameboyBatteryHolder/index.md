@@ -36,7 +36,23 @@ holes in their cases to make room, something I did not want to do.
 
 I decided, that I could design and 3D print my own battery holder, after all I have a printer and 3D design skills, why not?
 
+This was the first iteration of the holder:
+
+![working CR2032 holder](./holder1.jpg)
+
+And here it is installed:
+
+![assembled v1](./assembledv1.jpg)
+
+Notice the janky leads, I ripped the tabs off of the old battery and repurposed them as the leads for this holder. I thought
+this was clever but it ended up being more janky than I was happy with.
+
+This holder failed my requirement of fitting inside of the case, I had gotten the dimensions for a similar battery the CR2025
+which is 0.7 mm thinner than a CR2032. I could have gone and found a CR2025 but I'm stubborn and wanted to make the CR2032 work.
+
 After some trial and error I arrived at a working part for a 3D printed CR2032 holder for a gameboy cartridge.
 
-![working CR2032 holder](./holder.jpg)
+The holder is designed to fit insided the cartridge and hold the battery without requiring any case modification. I added 
+some channels on either end that would hold the leads to complete the circuit..
 
+The leads are the jankiest part of this whole solution
