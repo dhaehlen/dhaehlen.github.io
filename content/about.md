@@ -13,15 +13,12 @@ I'm a jack of many trades and a master of none (except skiing). But like the res
 ## &#127891; Education
 
 > M.Eng Software Engineering
->
-> [Predicting Individual Star Ratings From Reviews on Yelp](./Predicting Individual Star Ratings From Reviews on Yelp.pdf)
 
 > B.Sc Mechanical Engineering with Minor in Mechatronics
-
 
 ## Principles
 
 - Keep It Simple
 - Robots aren’t Human and Humans aren’t Robots
 - Explicit is better than Implicit
-- Do hard thing
+- Do hard things
