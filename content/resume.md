@@ -6,6 +6,14 @@ title = 'Resume'
 
 ## Experience
 
+#### June 2026 - Current
+
+***
+
+### CoLab Software - Software Developer III
+
+- Focusing on developing an automated QA pipeline and developing custom integrations for CAD and PLM software.
+
 #### October 2019 - January 2026
 
 ***
